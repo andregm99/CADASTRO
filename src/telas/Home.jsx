@@ -59,7 +59,7 @@ useEffect(()=>{
         to='/login'
         state={{ students : removedStudents }}
       >
-        Login
+        REMOVIDOS
       </Link>
       <header>
       <h3 style={{color:"white"}}>Lista de presença</h3>
