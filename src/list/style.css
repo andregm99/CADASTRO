@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    width: 50%;
+    border-radius: 5px;
+    height: 80px;
+}
+strong{
+    color: white;
+}
+small{
+    color: white;
+}
